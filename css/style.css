@@ -1,0 +1,63 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.bg {
+    background-image: linear-gradient( 75deg,  #EB7394 , #5260E3);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+}
+
+.logo {
+    height: 600px;
+    width: auto;
+}
+
+.title {
+    color: white;
+}
+
+.sub-title {
+    color: white;
+    font-weight: 300;
+}
+
+.btn-style {
+    border-radius: 50px;
+}
+
+.main-txt {
+    color: white;
+}
+
+.main-p {
+    font-size: 20px;
+}
+
+.function-p{
+    font-size: 26px;
+    color: #263238;
+}
+
+.carousel-item2 {
+    border-color: #d8d8d8;
+    border-width: 1px;
+    border-style: solid;
+    background-color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 20px;
+}
+
+.p-slide {
+    color: #5260E3;
+    font-weight: 600; 
+}
+
+.footer-p {
+    color: white;
+}
